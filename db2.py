@@ -4,10 +4,10 @@ import sqlite3
 import time
 
 
-host = '223.130.152.96'
+host = '###.###.###.###'
 db_name = 'mydatabase'
-user = 'lincoln'
-pwd = 'dong1515'
+user = '####'
+pwd = '####'
 
 
 db_con = db_conn.connect(
