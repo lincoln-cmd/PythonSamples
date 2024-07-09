@@ -2,10 +2,10 @@ import mysql.connector as db_conn
 import sqlite3
 
 #2
-'''host = '223.130.152.96'
+'''host = '###.###.###.###'
 db_name = 'mysqlite.db'
-user = 'lincoln'
-pwd = 'dong1515'
+user = '####'
+pwd = '####'
 
 db_con = db_conn.connect(
     host = host,
@@ -54,10 +54,10 @@ db_con.disconnect()'''
 
 #5
 
-host = '223.130.152.96'
+host = '###.###.###.###'
 db_name = 'TEST'
-user = 'lincoln'
-pwd = 'dong1515'
+user = '####'
+pwd = '####'
 
 db_con = db_conn.connect(
     host = host,
