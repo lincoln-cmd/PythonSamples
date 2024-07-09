@@ -1,9 +1,9 @@
 import mysql.connector as db_connector
 
-host = '223.130.159.139'
+host = '###.###.###.###'
 database_name = 'test'
-user = 'lincoln'
-pwd = 'dong1515'
+user = '####'
+pwd = '####'
 
 
 db_con = db_connector.connect(
